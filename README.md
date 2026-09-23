@@ -1,8 +1,31 @@
-# CS 340 — Data Analytics
+# Grazioso Salvare Animal Rescue Analytics Dashboard
 
-MongoDB, Python CRUD, dashboard, notebook, and milestone materials. Credentials were replaced with an environment-variable placeholder before upload.
+An interactive animal-rescue analytics dashboard developed for CS 340. The project demonstrates practical data work across **Python, MongoDB, PyMongo, Dash, Plotly, and JupyterLab**.
 
-- `crud-python-module.py` — reusable CRUD module
-- `project-two-dashboard.ipynb` — Grazioso Salvare dashboard notebook
-- `module-6-milestone.ipynb` — module milestone notebook
-- Supporting reports, datasets, and specifications
+## What this project demonstrates
+
+- MongoDB data access and CRUD operations
+- Filtering and querying structured animal-shelter records
+- Data cleaning and transformation
+- Interactive Dash data tables
+- Plotly visualizations
+- Geospatial mapping with latitude/longitude data
+- Translating business requirements into an interactive dashboard
+
+## Key files
+
+- `crud-python-module.py` — reusable MongoDB CRUD module
+- `crud-python-module6.py` — dashboard-focused CRUD implementation
+- `project-two-dashboard.ipynb` — interactive dashboard notebook
+- `module-6-milestone.ipynb` — dashboard milestone notebook
+- `penguins.csv`, `repair.csv`, `weight.csv` — supporting datasets
+
+## Portfolio
+
+[View the live portfolio](https://ahmed306758-droid.github.io/ahmedporfolio/)
+
+## Tech stack
+
+**Python · MongoDB · PyMongo · Dash · Plotly · JupyterLab · Pandas-style data workflows**
+
+> Note: This repository contains coursework artifacts. Credentials were removed before publication.
